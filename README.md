@@ -1,5 +1,5 @@
 # AVATAR
-This repo is for source code of ACL 2026 paper "Aligning Visual and Textual Semantics for Generative Recommendation".
+This repo is for source code of paper "Aligning Visual and Textual Semantics for Generative Recommendation".
 
 # Data Preprocess
 Step 1: Decompress the downloaded 5-core reviews and metadata from Amazon Review 2014, which are in the format `reviews_Beauty_5.json.gz` and `meta_Beauty.json.gz`. Use the command provided in the `AVATAR/data/process.ipynb` file to perform the decompression.
